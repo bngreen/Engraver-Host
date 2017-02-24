@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EngraverHost.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SerialPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM6</Value>
+    </Setting>
+    <Setting Name="Gerber2SvgPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Bruno\AppData\Roaming\npm\node_modules\gerber-to-svg\bin\gerber2svg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
